@@ -1,1 +1,4 @@
 noha elkayal
+ git config --global user.email "noha.elkayal@gmail.com"
+ my lastname is elkayal
+ 
